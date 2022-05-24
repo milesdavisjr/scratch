@@ -1,4 +1,4 @@
-%chk=SBF91.chk
+%%chk=SBF91.chk
 %mem=48MW
 %nproc=2
 # UBPW91/cc-pVDZ opt guess=(mix,always)
